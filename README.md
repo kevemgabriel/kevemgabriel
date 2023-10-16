@@ -1,6 +1,6 @@
 ### ola, me chamo Kevem Gabriel
 
-Tenho 15 anos e estou aqui para apresentar meus trabanlhos e da aula de pensamento computacional do professor Haward.
+Tenho 15 anos e estou aqui para apresentar meus trabalhos da aula de pensamento computacional do professor Haward.
 ![](https://usagif.com/wp-content/uploads/gifs/spongebob-rainbow-1.gif.webp)
 
 ### Para entrar em contato comigo
